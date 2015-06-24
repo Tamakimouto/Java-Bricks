@@ -1,0 +1,532 @@
+Anthony-Zheng-fxgame:
+total 1240
+-rw-r--r--. 1 ugrad     320 Nov 22 14:38 build.sbt
+drwxr-xr-x. 2 ugrad    4096 Dec  7 19:40 lib
+-rw-r--r--. 1 ugrad    3864 Dec  7 18:54 MOCKUP.md
+drwxr-xr-x. 3 ugrad    4096 Nov 22 14:45 project
+-rw-r--r--. 1 ugrad   18741 Dec  8 18:11 README.md
+-rw-r--r--. 1 ugrad       0 Dec  8 18:15 rec22369
+-rwxr-xr-x. 1 ugrad      51 Nov 22 14:38 sbt
+-rw-r--r--. 1 ugrad 1216768 Nov 22 14:38 sbt-launch.jar
+drwxr-xr-x. 3 ugrad    4096 Nov 22 14:38 src
+drwxr-xr-x. 5 ugrad    4096 Nov 22 14:45 target
+
+Anthony-Zheng-fxgame/lib:
+total 13260
+-rw-r--r--. 1 ugrad    16481 Nov 22 14:38 fxgame.jar
+-rw-r--r--. 1 ugrad 13554520 Dec  7 19:39 jfxrt.jar
+
+Anthony-Zheng-fxgame/project:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 target
+
+Anthony-Zheng-fxgame/project/target:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 config-classes
+
+Anthony-Zheng-fxgame/project/target/config-classes:
+total 104
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $0039ffc46ed9ed039d6c.cache
+-rw-r--r--. 1 ugrad  317 Nov 22 14:45 $0039ffc46ed9ed039d6c.class
+-rw-r--r--. 1 ugrad 2196 Nov 22 14:45 $0039ffc46ed9ed039d6c$.class
+-rw-r--r--. 1 ugrad  881 Nov 22 14:45 $55ec15277658789b728a$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $55ec15277658789b728a.cache
+-rw-r--r--. 1 ugrad  394 Nov 22 14:45 $55ec15277658789b728a.class
+-rw-r--r--. 1 ugrad 1307 Nov 22 14:45 $55ec15277658789b728a$.class
+-rw-r--r--. 1 ugrad  936 Nov 22 14:45 $72767ddeabfbd05397d4$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $72767ddeabfbd05397d4.cache
+-rw-r--r--. 1 ugrad  394 Nov 22 14:45 $72767ddeabfbd05397d4.class
+-rw-r--r--. 1 ugrad 1480 Nov 22 14:45 $72767ddeabfbd05397d4$.class
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $9b662fb3e020d5f2ad07.cache
+-rw-r--r--. 1 ugrad  317 Nov 22 14:45 $9b662fb3e020d5f2ad07.class
+-rw-r--r--. 1 ugrad 2199 Nov 22 14:45 $9b662fb3e020d5f2ad07$.class
+-rw-r--r--. 1 ugrad 1368 Nov 22 14:45 $d4b6f88ed171a368b84b$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $d4b6f88ed171a368b84b.cache
+-rw-r--r--. 1 ugrad  394 Nov 22 14:45 $d4b6f88ed171a368b84b.class
+-rw-r--r--. 1 ugrad 1537 Nov 22 14:45 $d4b6f88ed171a368b84b$.class
+-rw-r--r--. 1 ugrad  891 Nov 22 14:45 $f44080db705a6d29ec7f$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $f44080db705a6d29ec7f.cache
+-rw-r--r--. 1 ugrad  716 Nov 22 14:45 $f44080db705a6d29ec7f.class
+-rw-r--r--. 1 ugrad 1304 Nov 22 14:45 $f44080db705a6d29ec7f$.class
+-rw-r--r--. 1 ugrad  936 Nov 22 14:45 $f856e60f5f25c8a2f93c$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 22 14:45 $f856e60f5f25c8a2f93c.cache
+-rw-r--r--. 1 ugrad  394 Nov 22 14:45 $f856e60f5f25c8a2f93c.class
+-rw-r--r--. 1 ugrad 1316 Nov 22 14:45 $f856e60f5f25c8a2f93c$.class
+
+Anthony-Zheng-fxgame/src:
+total 4
+drwxr-xr-x. 4 ugrad 4096 Dec  7 14:36 main
+
+Anthony-Zheng-fxgame/src/main:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:38 java
+drwxr-xr-x. 2 ugrad 4096 Dec  8 17:48 resources
+
+Anthony-Zheng-fxgame/src/main/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:38 cs1302
+
+Anthony-Zheng-fxgame/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 18:13 fxgame
+
+Anthony-Zheng-fxgame/src/main/java/cs1302/fxgame:
+total 36
+-rw-r--r--. 1 ugrad 15878 Dec  8 18:13 Brickbreak.java
+-rw-r--r--. 1 ugrad  3662 Dec  6 16:10 Bricks.java
+-rw-r--r--. 1 ugrad  1475 Dec  8 16:50 Driver.java
+-rw-r--r--. 1 ugrad  2559 Nov 22 14:38 semantic.cache
+-rw-r--r--. 1 ugrad  1470 Dec  1 14:47 #TestGame.java#
+-rw-r--r--. 1 ugrad  1470 Nov 22 14:38 TestGame.java
+
+Anthony-Zheng-fxgame/src/main/resources:
+total 1724
+-rw-r--r--. 1 ugrad 1663509 Dec  6 16:15 BGM.mp3
+-rw-r--r--. 1 ugrad   37023 Dec  8 17:46 end.jpg
+-rw-r--r--. 1 ugrad   16306 Dec  6 16:17 hitsound.wav
+-rw-r--r--. 1 ugrad   37316 Dec  6 16:15 Title.jpg
+
+Anthony-Zheng-fxgame/target:
+total 12
+drwxr-xr-x. 4 ugrad 4096 Nov 22 14:45 resolution-cache
+drwxr-xr-x. 3 ugrad 4096 Dec  8 18:13 scala-2.10
+drwxr-xr-x. 5 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/resolution-cache:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 default
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 reports
+
+Anthony-Zheng-fxgame/target/resolution-cache/default:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 cs1302-fxgame_2.10
+
+Anthony-Zheng-fxgame/target/resolution-cache/default/cs1302-fxgame_2.10:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 1.0
+
+Anthony-Zheng-fxgame/target/resolution-cache/default/cs1302-fxgame_2.10/1.0:
+total 8
+-rw-r--r--. 1 ugrad  628 Nov 22 14:45 resolved.xml.properties
+-rw-r--r--. 1 ugrad 2017 Nov 22 14:45 resolved.xml.xml
+
+Anthony-Zheng-fxgame/target/resolution-cache/reports:
+total 96
+-rw-r--r--. 1 ugrad   445 Nov 22 14:45 default-cs1302-fxgame_2.10-compile-internal.xml
+-rw-r--r--. 1 ugrad   436 Nov 22 14:45 default-cs1302-fxgame_2.10-compile.xml
+-rw-r--r--. 1 ugrad   433 Nov 22 14:45 default-cs1302-fxgame_2.10-docs.xml
+-rw-r--r--. 1 ugrad   437 Nov 22 14:45 default-cs1302-fxgame_2.10-optional.xml
+-rw-r--r--. 1 ugrad   435 Nov 22 14:45 default-cs1302-fxgame_2.10-plugin.xml
+-rw-r--r--. 1 ugrad   432 Nov 22 14:45 default-cs1302-fxgame_2.10-pom.xml
+-rw-r--r--. 1 ugrad   437 Nov 22 14:45 default-cs1302-fxgame_2.10-provided.xml
+-rw-r--r--. 1 ugrad   445 Nov 22 14:45 default-cs1302-fxgame_2.10-runtime-internal.xml
+-rw-r--r--. 1 ugrad   436 Nov 22 14:45 default-cs1302-fxgame_2.10-runtime.xml
+-rw-r--r--. 1 ugrad  7552 Nov 22 14:45 default-cs1302-fxgame_2.10-scala-tool.xml
+-rw-r--r--. 1 ugrad   436 Nov 22 14:45 default-cs1302-fxgame_2.10-sources.xml
+-rw-r--r--. 1 ugrad  4358 Nov 22 14:45 default-cs1302-fxgame_2.10-test-internal.xml
+-rw-r--r--. 1 ugrad  4314 Nov 22 14:45 default-cs1302-fxgame_2.10-test.xml
+-rw-r--r--. 1 ugrad  4371 Nov 22 14:45 ivy-report.css
+-rw-r--r--. 1 ugrad 20993 Nov 22 14:45 ivy-report.xsl
+
+Anthony-Zheng-fxgame/target/scala-2.10:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 17:58 classes
+
+Anthony-Zheng-fxgame/target/scala-2.10/classes:
+total 1728
+-rw-r--r--. 1 ugrad 1663509 Dec  6 16:15 BGM.mp3
+drwxr-xr-x. 3 ugrad    4096 Dec  6 16:19 cs1302
+-rw-r--r--. 1 ugrad   37023 Dec  8 17:46 end.jpg
+-rw-r--r--. 1 ugrad   16306 Dec  6 16:17 hitsound.wav
+-rw-r--r--. 1 ugrad   37316 Dec  6 16:15 Title.jpg
+
+Anthony-Zheng-fxgame/target/scala-2.10/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 18:13 fxgame
+
+Anthony-Zheng-fxgame/target/scala-2.10/classes/cs1302/fxgame:
+total 76
+-rw-r--r--. 1 ugrad   792 Dec  8 18:13 Brickbreak$10.class
+-rw-r--r--. 1 ugrad   563 Dec  8 18:13 Brickbreak$1.class
+-rw-r--r--. 1 ugrad   569 Dec  8 18:13 Brickbreak$2.class
+-rw-r--r--. 1 ugrad   562 Dec  8 18:13 Brickbreak$3.class
+-rw-r--r--. 1 ugrad   777 Dec  8 18:13 Brickbreak$4.class
+-rw-r--r--. 1 ugrad   998 Dec  8 18:13 Brickbreak$5.class
+-rw-r--r--. 1 ugrad   790 Dec  8 18:13 Brickbreak$6.class
+-rw-r--r--. 1 ugrad   908 Dec  8 18:13 Brickbreak$7.class
+-rw-r--r--. 1 ugrad   998 Dec  8 18:13 Brickbreak$8.class
+-rw-r--r--. 1 ugrad   998 Dec  8 18:13 Brickbreak$9.class
+-rw-r--r--. 1 ugrad 11268 Dec  8 18:13 Brickbreak.class
+-rw-r--r--. 1 ugrad  1084 Dec  8 18:13 Brickbreak$gameMode.class
+-rw-r--r--. 1 ugrad  2045 Dec  6 16:19 Bricks.class
+-rw-r--r--. 1 ugrad  1490 Dec  8 17:58 Driver.class
+-rw-r--r--. 1 ugrad   553 Dec  6 16:19 TestGame$1.class
+-rw-r--r--. 1 ugrad   637 Dec  6 16:19 TestGame$2.class
+-rw-r--r--. 1 ugrad  2121 Dec  6 16:19 TestGame.class
+
+Anthony-Zheng-fxgame/target/streams:
+total 12
+drwxr-xr-x. 14 ugrad 4096 Nov 22 14:45 compile
+drwxr-xr-x.  8 ugrad 4096 Nov 22 14:45 $global
+drwxr-xr-x. 10 ugrad 4096 Nov 22 14:45 runtime
+
+Anthony-Zheng-fxgame/target/streams/compile:
+total 48
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 compile
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 copyResources
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 incCompileSetup
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 run
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 unmanagedJars
+
+Anthony-Zheng-fxgame/target/streams/compile/compile:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/compile/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/compile/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad  374 Dec  8 18:13 export
+-rw-r--r--. 1 ugrad 1963 Dec  8 18:13 out
+
+Anthony-Zheng-fxgame/target/streams/compile/copyResources:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/copyResources/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/copyResources/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 244 Dec  8 18:13 copy-resources
+-rw-r--r--. 1 ugrad 699 Dec  8 18:13 out
+
+Anthony-Zheng-fxgame/target/streams/compile/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/compile/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/compile/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/compile/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 discoveredMainClasses
+
+Anthony-Zheng-fxgame/target/streams/compile/$global/$global/discoveredMainClasses:
+total 4
+-rw-r--r--. 1 ugrad 26 Dec  8 18:13 data
+
+Anthony-Zheng-fxgame/target/streams/compile/incCompileSetup:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/incCompileSetup/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/incCompileSetup/$global/streams:
+total 64
+-rw-r--r--. 1 ugrad 64688 Dec  8 18:13 inc_compile_2.10
+
+Anthony-Zheng-fxgame/target/streams/compile/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/compile/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/compile/run:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/run/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/run/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 203 Dec  8 18:13 out
+
+Anthony-Zheng-fxgame/target/streams/compile/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/compile/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/compile/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/compile/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/$global:
+total 24
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 dependencyPositions
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 ivyConfiguration
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 ivySbt
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 projectDescriptors
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 update
+
+Anthony-Zheng-fxgame/target/streams/$global/dependencyPositions:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/$global/dependencyPositions/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/$global/dependencyPositions/$global/streams:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 update_cache_2.10
+
+Anthony-Zheng-fxgame/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10:
+total 8
+-rw-r--r--. 1 ugrad  74 Nov 22 14:45 input_dsp
+-rw-r--r--. 1 ugrad 135 Dec  8 18:13 output_dsp
+
+Anthony-Zheng-fxgame/target/streams/$global/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/$global/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/$global/$global/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 22 14:45 out
+
+Anthony-Zheng-fxgame/target/streams/$global/ivyConfiguration:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/$global/ivyConfiguration/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/$global/ivyConfiguration/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 172 Nov 22 14:45 out
+
+Anthony-Zheng-fxgame/target/streams/$global/ivySbt:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/$global/ivySbt/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/$global/ivySbt/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 22 14:45 out
+
+Anthony-Zheng-fxgame/target/streams/$global/projectDescriptors:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/$global/projectDescriptors/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/$global/projectDescriptors/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 22 14:45 out
+
+Anthony-Zheng-fxgame/target/streams/$global/update:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/$global/update/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/$global/update/$global/streams:
+total 24
+-rw-r--r--. 1 ugrad 20239 Nov 22 14:45 out
+drwxr-xr-x. 2 ugrad  4096 Nov 22 14:45 update_cache_2.10
+
+Anthony-Zheng-fxgame/target/streams/$global/update/$global/streams/update_cache_2.10:
+total 20
+-rw-r--r--. 1 ugrad  1542 Nov 22 14:45 inputs
+-rw-r--r--. 1 ugrad 13410 Dec  8 18:13 output
+
+Anthony-Zheng-fxgame/target/streams/runtime:
+total 32
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 fullClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 unmanagedJars
+
+Anthony-Zheng-fxgame/target/streams/runtime/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 154 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/fullClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/fullClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/fullClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 154 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 59 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+
+Anthony-Zheng-fxgame/target/streams/runtime/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 22 14:45 $global
+
+Anthony-Zheng-fxgame/target/streams/runtime/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 22 14:45 streams
+
+Anthony-Zheng-fxgame/target/streams/runtime/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 95 Dec  8 18:13 export
+/home/ugrads/zheng/Anthony-Zheng-fxgame:/home/work/cs1302b

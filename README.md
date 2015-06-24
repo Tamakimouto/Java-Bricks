@@ -1,3 +1,114 @@
+# Project Submission
+
+Author: Anthony Zheng (4700)
+
+[If you did any of the exra credit then please indicate that here.]
+I made a start screen. It's got the blinking start text, and some nice music.
+EDIT: Unless you run the game locally, or without forwarding, the music won't work.
+
+
+# Fore note
+
+As I built this game, I realize that I've made quite a difficult game.
+For Testing purposes, there is a secret command, by pressing ESC in 
+the game you may refill your lives, but reset your score. This is for 
+the sake of reaching the end of the game. The brick progress will remain
+unchanged, and you may continue to break bricks at the cost of all your score.
+I sure had fun making the game, Hope you have fun playing it.
+
+Basic instructions are included in the UI, but I can't find a way to halt the game
+time while in the start screen. So If you don't stay on the start screen for too long
+you should be able to see the instructions.
+
+?????????????????????????????????????????????????????????????????????????????????????
+# Gameplay Instructions
+
+   ___        _        _                                                              
+  / __\ _ __ (_)  ___ | | __                                                          
+ /__\//| '__|| | / __|| |/ /                                                          
+/ \/  \| |   | || (__ |   <                                                           
+\_____/|_|   |_| \___||_|\_\                                                          
+ _____        _                 __     ___              _                   _         
+/__   \ __ _ | |  ___    ___   / _|   / __\ _   _  ___ | |_  __ _  _ __  __| |        
+  / /\// _` || | / _ \  / _ \ | |_   /__\//| | | |/ __|| __|/ _` || '__|/ _` |        
+ / /  | (_| || ||  __/ | (_) ||  _| / \/  \| |_| |\__ \| |_| (_| || |  | (_| |        
+ \/    \__,_||_| \___|  \___/ |_|   \_____/ \__,_||___/ \__|\__,_||_|   \__,_|        
+   ___                                     _   _    _             ____              _ 
+  / __\  ___  _ __  _ __    __ _  _ __  __| | | |_ | |__    ___  |___ \  _ __    __| |
+ /__\// / _ \| '__|| '_ \  / _` || '__|/ _` | | __|| '_ \  / _ \   __) || '_ \  / _` |
+/ \/  \|  __/| |   | | | || (_| || |  | (_| | | |_ | | | ||  __/  / __/ | | | || (_| |
+\_____/ \___||_|   |_| |_| \__,_||_|   \__,_|  \__||_| |_| \___| |_____||_| |_| \__,_|
+                                                                                      
+
+Hey, welcome to my game. 
+
+The controls are very simple at face value
+Left arrow to move paddle left, and right arrow to move right.
+However the mechanics of this game are a little bit different.
+
+In the Project description, it doesn't nessesarily mention that we MUST 
+have a level system. Therefore, I don't have a level system. 
+I will now describe the mechanics of the game.
+
+The game starts out with an impressive number of bricks, a total of 195 
+bricks must be broken in order to win the game. That is however, not
+the difficult part of the game. The main difficulty lies in the fact 
+that the ball may sometimes betray expectations and move in strange ways.
+
+The Balls speed may speed up and slow down at random upon 
+collision. The ball may periodically do  more than one hit's
+worth of damage to a brick, given that the conditions are met.
+In addition, the balls trajectory will betray expectations, that is 
+the bounce angle may surprise you, as you predict the balls future
+location, and move the paddle accordingly. 
+
+However, for game balance, the most difficult part of the game
+lies only in the start of the game. If you can manage to get behind 
+one of the "brick legs" you will find the trick to defeating all the bricks.
+If you still don't get it, hitting bricks from the back results in 
+a critical hit and will immediatly vaporize the brick. 
+
+For every 30 bricks destroyed the variation of the balls speed and 
+angle will increase EXPONENTIALLY. That is, if at first the balls 
+speed goes from very slow, to moderatly fast, 60 balls later the
+ball could travel anywhere from very slow to INSANELY fast and at
+impossible angles, Success relies on predicting the balls bounce 
+and the reflexes in case you guess wrong. 
+
+Good Luck, Have fun, and Thanks for all of your hard work this semester.
+
+????????????????????????????????????????????????????????????????????????????????
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CSCI 1302 - FXGame (cs1302-fxgame)
 
 This repository contains skeleton code for a project or assignment in Michael E. 

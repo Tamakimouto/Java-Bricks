@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ugrads/zheng/cs1302-fxgame/src/main/resources/hitsound.wav,/home/ugrads/zheng/cs1302-fxgame/target/scala-2.10/classes/hitsound.wav)[0m
+[0m[[0mdebug[0m] [0m	(/home/ugrads/zheng/cs1302-fxgame/src/main/resources/end.jpg,/home/ugrads/zheng/cs1302-fxgame/target/scala-2.10/classes/end.jpg)[0m
+[0m[[0mdebug[0m] [0m	(/home/ugrads/zheng/cs1302-fxgame/src/main/resources/Title.jpg,/home/ugrads/zheng/cs1302-fxgame/target/scala-2.10/classes/Title.jpg)[0m
+[0m[[0mdebug[0m] [0m	(/home/ugrads/zheng/cs1302-fxgame/src/main/resources/BGM.mp3,/home/ugrads/zheng/cs1302-fxgame/target/scala-2.10/classes/BGM.mp3)[0m
